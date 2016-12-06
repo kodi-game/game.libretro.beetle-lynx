@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-lynx"
-		name="Atari Lynx (Beetle Lynx)"
+		name="Atari Lynx (Mednafen Handy)"
 		version="0.9.32"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_@PLATFORM@="@LIBRARY_FILENAME@">
+			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>lynx</platforms>
 		<extensions>lnx</extensions>
 		<supports_vfs>false</supports_vfs>
-		<supports_no_game>false</supports_no_game>
+		<supports_standalone>false</supports_standalone>
+		<supports_keyboard>false</supports_keyboard>
+		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Beetle Lynx v0.9.32</summary>
+		<summary lang="en">Atari Lynx (Mednafen Handy) v0.9.32</summary>
 		<description>Beetle Lynx is the Atari Lynx module of Beetle, a fork of Mednafen. The Mednafen module is a fork of Handy.
 
 Supported files: .lnx
 
 License: GPLv2</description>
+		<license>Zlib|GPLv2</license>
 		<platform>@PLATFORM@</platform>
-		<nofanart>true</nofanart>
 	</extension>
 </addon>
