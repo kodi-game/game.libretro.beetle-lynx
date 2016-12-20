@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Atari Lynx (Mednafen Handy) v0.9.32 647656b</summary>
+		<summary lang="en">Atari Lynx (Mednafen Handy) v0.9.32</summary>
 		<description>Beetle Lynx is the Atari Lynx module of Beetle, a fork of Mednafen. The Mednafen module is a fork of Handy.
 
 Supported files: .lnx</description>
