@@ -4,7 +4,7 @@ project(game.libretro.beetle-lynx)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-beetle-lynx REQUIRED)
+find_library(BEETLE-LYNX_LIB NAMES mednafen_lynx_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(BEETLE-LYNX_CUSTOM_BINARY ${BEETLE-LYNX_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
