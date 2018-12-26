@@ -1,1 +1,1 @@
-beetle-lynx https://github.com/libretro/beetle-lynx-libretro/archive/6816829ae785e2d468256d346fcd90b5baaa7327.zip
+beetle-lynx https://github.com/libretro/beetle-lynx-libretro/archive/1583a66c4135f675f5bdd2839f2b4a3c9848aa45.zip
