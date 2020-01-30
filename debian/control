@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-beetle-lynx (>= 0.9.47) | beetle-lynx (>= 0.9.47)
+               libretro-beetle-lynx (>= 1.24.0) | beetle-lynx (>= 1.24.0)
 Standards-Version: 3.9.8
 Section: libs
 
