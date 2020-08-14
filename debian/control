@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Atari - Lynx (Beetle Handy) core for kodi's retroplayer
- Atari - Lynx (Beetle Handy) core for kodi's retroplayer
+Description: Atari - Lynx (Beetle Lynx) core for kodi's retroplayer
+ Atari - Lynx (Beetle Lynx) core for kodi's retroplayer
