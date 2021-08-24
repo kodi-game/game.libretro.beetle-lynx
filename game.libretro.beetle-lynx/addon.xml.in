@@ -16,9 +16,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Atari - Lynx (Beetle Lynx) v1.24.0</summary>
-		<description lang="en_GB">Beetle Lynx is the Atari Lynx module of Beetle, a fork of Mednafen. The Mednafen module is a fork of Handy.
-
-Supported files: .lnx, .o</description>
+		<description lang="en_GB">Beetle Lynx is the Atari Lynx module of Beetle, a fork of Mednafen. The Mednafen module is a fork of Handy.</description>
 		<license>Zlib|GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.beetle-lynx</source>
