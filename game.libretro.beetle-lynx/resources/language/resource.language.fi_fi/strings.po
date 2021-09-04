@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "Beetle Lynx is the Atari Lynx module of Beetle, a fork of Mednafen. The Mednafen module is a fork of Handy."
 msgstr ""
-
