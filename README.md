@@ -13,7 +13,7 @@ Zlib|GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-lynx/resources/icon.png)
+![Atari - Lynx (Beetle Lynx) icon](game.libretro.beetle-lynx/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.beetle-lynx/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.beetle-lynx/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.beetle-lynx/resources/screenshot-03.jpg)
+![Atari - Lynx (Beetle Lynx) screenshot](game.libretro.beetle-lynx/resources/screenshot-01.jpg)
+![Atari - Lynx (Beetle Lynx) screenshot](game.libretro.beetle-lynx/resources/screenshot-02.jpg)
+![Atari - Lynx (Beetle Lynx) screenshot](game.libretro.beetle-lynx/resources/screenshot-03.jpg)
