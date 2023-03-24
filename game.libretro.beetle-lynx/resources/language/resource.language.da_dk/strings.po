@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
-msgid "Atari - Lynx (Beetle Lynx) v1.24.0"
+msgid "Atari - Lynx (Beetle Lynx)"
 msgstr ""
 
 msgctxt "Addon Description"
