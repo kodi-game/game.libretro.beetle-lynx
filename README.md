@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.beetle-lynx.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.beetle-lynx)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.beetle-lynx?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-beetle-lynx)
-
 # Atari - Lynx (Beetle Lynx)
 
 ### Description
