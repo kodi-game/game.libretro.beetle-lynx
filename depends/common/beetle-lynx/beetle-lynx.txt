@@ -1,1 +1,1 @@
-beetle-lynx https://github.com/libretro/beetle-lynx-libretro/archive/2ce6244d04e45718df16f1fd05a4d7613ed54db0.tar.gz
+beetle-lynx https://github.com/libretro/beetle-lynx-libretro/archive/48909ddd1aba4de034d9c1da70c460b1724daa3b.tar.gz
