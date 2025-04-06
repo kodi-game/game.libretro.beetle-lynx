@@ -32,6 +32,7 @@
 		<summary lang="it_IT">Atari - Lynx (Beetle Lynx)</summary>
 		<summary lang="ko_KR">아타리 - Lynx(Beetle Lynx)</summary>
 		<summary lang="ru_RU">Atari - Lynx (Beetle Lynx)</summary>
+		<summary lang="sv_SE">Atari - Lynx (Beetle Lynx)</summary>
 		<summary lang="zh_CN">雅达利 - Lynx（Beetle Lynx）</summary>
 		<description lang="da_DK">Beetle Lynx er Atari Lynx-modulet fra Beetle, en fork af Mednafen. Mednafen-modulet er en fork af Handy.</description>
 		<description lang="de_DE">Beetle Lynx ist das Atari-Lynx-Modul von Beetle, einem Fork von Mednafen. Das Mednafen-Modul ist ein Fork von Handy.</description>
@@ -41,6 +42,7 @@
 		<description lang="it_IT">Beetle Lynx è il modulo Atari Lynx di Beetle, un fork di Mednafen. Il modulo Mednafen è un fork di Handy.</description>
 		<description lang="ko_KR">비틀 Lynx는 Mednafen의 포크인 Beetle의 Atari Lynx 모듈입니다. Mednafen 모듈은 Handy의 포크입니다.</description>
 		<description lang="ru_RU">Beetle Lynx — это модуль Atari Lynx из Beetle, форка Mednafen. Модуль Mednafen является ответвлением Handy.</description>
+		<description lang="sv_SE">Beetle Lynx är Atari Lynx-modulen av Beetle, en förgrening av Mednafen. Mednafen-modulen är en förgrening av Handy.</description>
 		<description lang="zh_CN">Beetle Lynx 是 Beetle 的雅达利 Lynx 模块，是 Mednafen 的一个分支。Mednafen 模块又是 Handy 的一个分支。</description>
 	</extension>
 </addon>
