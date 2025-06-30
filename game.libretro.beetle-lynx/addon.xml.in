@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-lynx"
 		name="Atari - Lynx (Beetle Lynx)"
-		version="1.24.0.56"
+		version="1.24.0.57"
 		provider-name="K. Wilkins, Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,7 +10,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>lynx</platforms>
-		<extensions>lnx|lyx|o</extensions>
+		<extensions>lnx|lyx|bll|o</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>false</requires_opengl>
