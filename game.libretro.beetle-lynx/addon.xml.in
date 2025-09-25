@@ -29,6 +29,7 @@
 		<summary lang="en_GB">Atari - Lynx (Beetle Lynx)</summary>
 		<summary lang="es_ES">Atari - Lynx (Beetle Lynx)</summary>
 		<summary lang="fr_FR">Atari - Lynx (Beetle Lynx)</summary>
+		<summary lang="ga">Atari - Lynx (Beetle Lynx)</summary>
 		<summary lang="it_IT">Atari - Lynx (Beetle Lynx)</summary>
 		<summary lang="ko_KR">아타리 - Lynx(Beetle Lynx)</summary>
 		<summary lang="ru_RU">Atari - Lynx (Beetle Lynx)</summary>
@@ -39,6 +40,7 @@
 		<description lang="en_GB">Beetle Lynx is the Atari Lynx module of Beetle, a fork of Mednafen. The Mednafen module is a fork of Handy.</description>
 		<description lang="es_ES">Beetle Lynx es el módulo Atari Lynx de Beetle, una bifurcación de Mednafen. El módulo Mednafen es una bifurcación de Handy.</description>
 		<description lang="fr_FR">Beetle Lynx est le module Atari Lynx de Beetle, un fork de Mednafen. Le module Mednafen est un fork de Handy.</description>
+		<description lang="ga">Is é Beetle Lynx an modúl Atari Lynx de chuid Beetle, forc de Mednafen. Is forc de chuid Handy é an modúl Mednafen.</description>
 		<description lang="it_IT">Beetle Lynx è il modulo Atari Lynx di Beetle, un fork di Mednafen. Il modulo Mednafen è un fork di Handy.</description>
 		<description lang="ko_KR">비틀 Lynx는 Mednafen의 포크인 Beetle의 Atari Lynx 모듈입니다. Mednafen 모듈은 Handy의 포크입니다.</description>
 		<description lang="ru_RU">Beetle Lynx — это модуль Atari Lynx из Beetle, форка Mednafen. Модуль Mednafen является ответвлением Handy.</description>
