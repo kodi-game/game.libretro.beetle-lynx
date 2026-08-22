@@ -24,3 +24,40 @@ msgstr "Atari - Lynx (Beetle Lynx)"
 msgctxt "Addon Description"
 msgid "Beetle Lynx is the Atari Lynx module of Beetle, a fork of Mednafen. The Mednafen module is a fork of Handy."
 msgstr "Beetle Lynx est le module Atari Lynx de Beetle, un fork de Mednafen. Le module Mednafen est un fork de Handy."
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "Auto-rotate Screen"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Virtually rotate screen orientation and button mappings automatically for known games. When set to 'Manual', screen rotation is adjusted by pressing the SELECT button, otherwise a fixed rotation can be set to either 0, 90, 180 or 270 degrees counter-clockwise."
+msgstr ""
+
+msgctxt "#30003"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Manual"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Color Format (Restart Required)"
+msgstr ""
+
+msgctxt "#30006"
+msgid "16-Bit (RGB565)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "32-Bit (RGB8888)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Force 60Hz"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Force 60Hz instead of original 75Hz refresh rate, for perfectly smooth movement on 60Hz displays"
+msgstr ""
