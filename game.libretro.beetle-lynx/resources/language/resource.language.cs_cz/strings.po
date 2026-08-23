@@ -61,3 +61,19 @@ msgstr "Vynutit 60 Hz"
 msgctxt "#30009"
 msgid "Force 60Hz instead of original 75Hz refresh rate, for perfectly smooth movement on 60Hz displays"
 msgstr "Vynutit 60 Hz namísto původní obnovovací frekvence 75 Hz pro dokonale plynulý pohyb na displejích s frekvencí 60 Hz"
+
+msgctxt "#30010"
+msgid "0"
+msgstr ""
+
+msgctxt "#30011"
+msgid "90"
+msgstr ""
+
+msgctxt "#30012"
+msgid "180"
+msgstr ""
+
+msgctxt "#30013"
+msgid "270"
+msgstr ""

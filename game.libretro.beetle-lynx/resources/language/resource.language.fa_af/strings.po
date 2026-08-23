@@ -61,3 +61,19 @@ msgstr ""
 msgctxt "#30009"
 msgid "Force 60Hz instead of original 75Hz refresh rate, for perfectly smooth movement on 60Hz displays"
 msgstr ""
+
+msgctxt "#30010"
+msgid "0"
+msgstr ""
+
+msgctxt "#30011"
+msgid "90"
+msgstr ""
+
+msgctxt "#30012"
+msgid "180"
+msgstr ""
+
+msgctxt "#30013"
+msgid "270"
+msgstr ""
