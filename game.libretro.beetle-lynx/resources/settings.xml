@@ -10,10 +10,10 @@
 						<options>
 							<option label="30003">auto</option>
 							<option label="30004">manual</option>
-							<option>0</option>
-							<option>90</option>
-							<option>180</option>
-							<option>270</option>
+							<option label="30010">0</option>
+							<option label="30011">90</option>
+							<option label="30012">180</option>
+							<option label="30013">270</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -34,8 +34,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
